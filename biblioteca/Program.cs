@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace SistemaISP
 {
     // ==========================================
-    // 📄 MODELO BASE (Compartido por el grupo)
+    //  MODELO BASE (Compartido por el grupo)
     // ==========================================
     public class Cliente
     {
